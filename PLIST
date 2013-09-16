@@ -5,7 +5,9 @@ share/elasticsearch/README.textile
 share/elasticsearch/bin/elasticsearch
 share/elasticsearch/bin/elasticsearch.in.sh
 share/elasticsearch/bin/plugin
+share/elasticsearch/bin/wrapper.sh
 share/elasticsearch/config/elasticsearch.yml
+share/elasticsearch/config/local.conf
 share/elasticsearch/config/logging.yml
 share/elasticsearch/lib/${PKGNAME}.jar
 share/elasticsearch/lib/jna-3.3.0.jar
