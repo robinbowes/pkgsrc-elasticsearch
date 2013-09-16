@@ -4,3 +4,9 @@ Developed on a Joyent Instance (multiarch 13.2.2) running on SmartOS joyent_2013
 
 Todo:
  * add SMF manifest
+ * work out how to set JAVA_HOME and other configuration vars, eg.
+   - ES_JAVA_OPTS
+   - ES_HEAP_SIZE
+   - ES_MIN_MEM
+   - ES_MAX_MEM
+   - specific -X and/or -D options
