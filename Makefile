@@ -1,7 +1,7 @@
 # $NetBSD$
 
-DISTNAME=	elasticsearch-0.90.3
-CATEGORIES=	www
+DISTNAME=	elasticsearch-0.90.5
+CATEGORIES=	wip
 MASTER_SITES=	https://download.elasticsearch.org/elasticsearch/elasticsearch/
 
 MAINTAINER=	robin.bowes@yo61.com
